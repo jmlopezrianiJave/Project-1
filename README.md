@@ -10,8 +10,8 @@ To achieve this, we incorporated slapstick sound effects that lightened the inte
 
 The Audacity project and the video where to large to push into the repository. Below are the links to acces them:
 
-Audacity project: https://javerianacaliedu-my.sharepoint.com/:u:/g/personal/jmlopezriani_javerianacali_edu_co/EeK4_E2lW7hIsBkDyMXzC-IBTtE5JyGoEDInhlxRsWP0kA?e=LLpOFp
+Audacity project: https://javerianacaliedu-my.sharepoint.com/:u:/g/personal/jmlopezriani_javerianacali_edu_co/Eb5BO16dv4xPtRPsnVW6wHEBZWQhvD7NfNQYo0bxHGV8hA?e=WqQdJS
 
 Original trailer: https://www.youtube.com/watch?v=nb_fFj_0rq8
 
-Modified trailer: https://www.youtube.com/watch?v=nd5uydy3Ku8
+Modified trailer: https://youtu.be/Ho31S69als8
